@@ -1,0 +1,6 @@
+test: "D:\\doan_thigiacmaytinh\\train\\train\\test"
+train: "D:\\doan_thigiacmaytinh\\train\\train\\train"
+val: "D:\\doan_thigiacmaytinh\\train\\train\\valid"
+
+nc: 3
+names: ['gl', 'me', 'pi']
